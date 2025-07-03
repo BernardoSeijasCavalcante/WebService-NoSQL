@@ -1,2 +1,2 @@
 # WebService-NoSQL
-Comecei este projeto com o intuito de me aprofundar mais em web services em Java e me inteirar sobre NoSQL com MongoDB.
+Comecei este projeto com o intuito de me aprofundar mais em web services em Java e me inteirar sobre NoSQL com MongoDB. Este conteúdo é um retrabalho do projeto feito por Nélio Alves no curso <a href="https://www.udemy.com/course/java-curso-completo">Java COMPLETO Programação Orientada a Objetos + Projetos</a> da Udemy, adicionando o fato de que tanto o banco de dados quanto o serviço Spring serão hospedadas em serviços da Azure.
